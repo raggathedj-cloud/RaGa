@@ -1,0 +1,51 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.12"
+  },
+  "entries": [
+    {
+      "id": "20261107-001426-qq71",
+      "title": "Original Ragamuffin",
+      "commanders": [
+        "Original Ragamuffin"
+      ],
+      "guild": {
+        "id": "3D94FC8B-AF59-47FC-AC71-640C3400D5BB",
+        "name": "Raggas Little Muffins",
+        "tag": "RaGa"
+      },
+      "dateStart": "2026-11-06T23:14:26.000Z",
+      "dateEnd": "2026-11-07T00:39:17.679Z",
+      "dateLabel": "11/7/2026, 12:14:26 AM - 11/7/2026, 1:39:17 AM",
+      "url": "https://raggathedj-cloud.github.io/RaGa/?report=20261107-001426-qq71",
+      "publishedBy": "raggathedj-cloud",
+      "summary": {
+        "borderlandsPct": 0.4666666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 20
+      }
+    }
+  ]
+}
