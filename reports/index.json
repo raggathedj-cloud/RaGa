@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261107-213916-fy4v",
+      "title": "Original Ragamuffin",
+      "commanders": [
+        "Original Ragamuffin"
+      ],
+      "guild": {
+        "id": "3D94FC8B-AF59-47FC-AC71-640C3400D5BB",
+        "name": "Raggas Little Muffins",
+        "tag": "RaGa"
+      },
+      "dateStart": "2026-11-07T20:39:16.000Z",
+      "dateEnd": "2026-11-07T22:28:17.427Z",
+      "dateLabel": "11/7/2026, 9:39:16 PM - 11/7/2026, 11:28:17 PM",
+      "url": "https://raggathedj-cloud.github.io/RaGa/?report=20261107-213916-fy4v",
+      "publishedBy": "raggathedj-cloud",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 26,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261107-001426-qq71",
       "title": "Original Ragamuffin",
       "commanders": [
