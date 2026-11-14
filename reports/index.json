@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.12"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261114-205048-xoqs",
+      "title": "I Ragga I",
+      "commanders": [
+        "I Ragga I"
+      ],
+      "guild": {
+        "id": "3D94FC8B-AF59-47FC-AC71-640C3400D5BB",
+        "name": "Raggas Little Muffins",
+        "tag": "RaGa"
+      },
+      "dateStart": "2026-11-14T19:50:48.000Z",
+      "dateEnd": "2026-11-14T20:59:31.875Z",
+      "dateLabel": "11/14/2026, 8:50:48 PM - 11/14/2026, 9:59:31 PM",
+      "url": "https://raggathedj-cloud.github.io/RaGa/?report=20261114-205048-xoqs",
+      "publishedBy": "raggathedj-cloud",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 25,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20261107-213916-fy4v",
       "title": "Original Ragamuffin",
