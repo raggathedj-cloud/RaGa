@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261120-191609-050n",
+      "title": "Dave Hedgehog, I Ragga I",
+      "commanders": [
+        "Dave Hedgehog",
+        "I Ragga I"
+      ],
+      "guild": {
+        "id": "310FD997-A506-E711-80D3-E4115BD7B405",
+        "name": "Fly Like A Bird",
+        "tag": "Free"
+      },
+      "dateStart": "2026-11-20T18:16:09.000Z",
+      "dateEnd": "2026-11-20T20:17:53.661Z",
+      "dateLabel": "11/20/2026, 7:16:09 PM - 11/20/2026, 9:17:53 PM",
+      "url": "https://raggathedj-cloud.github.io/RaGa/?report=20261120-191609-050n",
+      "publishedBy": "raggathedj-cloud",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 44,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261114-205048-xoqs",
       "title": "I Ragga I",
       "commanders": [
