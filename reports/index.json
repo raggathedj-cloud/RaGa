@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261121-194350-chte",
+      "title": "Original Ragamuffin",
+      "commanders": [
+        "Original Ragamuffin"
+      ],
+      "guild": {
+        "id": "5BC41257-8764-E711-80D3-E83935B5B448",
+        "name": "PNutty",
+        "tag": "PNUT"
+      },
+      "dateStart": "2026-11-21T18:43:50.000Z",
+      "dateEnd": "2026-11-21T20:03:18.460Z",
+      "dateLabel": "11/21/2026, 7:43:50 PM - 11/21/2026, 9:03:18 PM",
+      "url": "https://raggathedj-cloud.github.io/RaGa/?report=20261121-194350-chte",
+      "publishedBy": "raggathedj-cloud",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 29,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20261120-191609-050n",
       "title": "Dave Hedgehog, I Ragga I",
       "commanders": [
